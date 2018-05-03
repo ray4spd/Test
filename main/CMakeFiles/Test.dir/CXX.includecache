@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ray/Projects/Github/Test/main/src/Test.cc
+Test.h
+/home/ray/Projects/Github/Test/main/src/Test.h
+iostream
+-
+
+/home/ray/Projects/Github/Test/main/src/main.cc
+iostream
+-
+Test.h
+/home/ray/Projects/Github/Test/main/src/Test.h
+
+includes/Test.h
+
