@@ -1,3 +1,0 @@
-/home/ray/Projects/Github/Test/main/CMakeFiles/edit_cache.dir
-/home/ray/Projects/Github/Test/main/CMakeFiles/rebuild_cache.dir
-/home/ray/Projects/Github/Test/main/CMakeFiles/Test.dir
